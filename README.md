@@ -112,6 +112,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
 - 2021 - [ClustOmics](https://github.com/galadrielbriere/ClustOmics) - Brière - Consensus clustering - [paper](https://doi.org/10.1186/s12859-021-04279-1)
+- 2021 - [IMIX](https://github.com/ziqiaow/IMIX) - Wang - [paper](https://doi.org/10.1093/bioinformatics/btaa1001)
 
 ### Multi-omics autoencoders
 
